@@ -19,7 +19,6 @@ const points = [
 "Very doubtful",
 "My reply is no"
 ];
-
 document.getElementById("response").innerHTML = points;  
 
 function myFunction() {
